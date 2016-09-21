@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Center Hackathon.CSharp.Plugins", "Data Center Hackathon.CSharp.Plugins.csproj", "{B7F86D12-E88D-3DC6-A455-A0597E98007F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Center Hackathon.CSharp", "Data Center Hackathon.CSharp.csproj", "{18968628-2298-4116-A2F7-0172969B57C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Center Hackathon.CSharp.Editor", "Data Center Hackathon.CSharp.Editor.csproj", "{826F63D9-7AE0-CBA7-8958-F147D5592BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F86D12-E88D-3DC6-A455-A0597E98007F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F86D12-E88D-3DC6-A455-A0597E98007F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F86D12-E88D-3DC6-A455-A0597E98007F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F86D12-E88D-3DC6-A455-A0597E98007F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18968628-2298-4116-A2F7-0172969B57C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18968628-2298-4116-A2F7-0172969B57C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18968628-2298-4116-A2F7-0172969B57C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18968628-2298-4116-A2F7-0172969B57C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826F63D9-7AE0-CBA7-8958-F147D5592BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826F63D9-7AE0-CBA7-8958-F147D5592BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826F63D9-7AE0-CBA7-8958-F147D5592BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826F63D9-7AE0-CBA7-8958-F147D5592BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
